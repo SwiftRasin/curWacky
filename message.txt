@@ -5,7 +5,7 @@ I would like to qualify some things.
 2. I will not be posting the source as if right now. 
   It is not yet entirely playable.
 
-EDIT:
+---EDIT OF 2/18/22:
 
 -With the use of Polymod, the game's assets
 can be switched out much quicker!
@@ -14,4 +14,18 @@ As if in the new update (you have it),
 There is a B-Sides mod already installed.
 To enable mods, add them to the list. (CaSE SENsITiVE!)
 
-Thats all for now!
+---EDIT OF 6/3/22:
+
+SETTINGS UPDATE:
+LOCAL MULTIPLAYER (VERY W.I.P.)!!!
+(Click the button next to the option to enter 
+player 2 controls)
+
+-You can add custom characters 
+(example installed to mods folder already)
+-You can make and change icons 
+(example installed to mods folder already)
+-You can make custom songs, and also make and change weeks!
+
+
+That's all for now!
