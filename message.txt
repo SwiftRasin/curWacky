@@ -41,6 +41,7 @@ GENERAL UPDATES
 (Only Pico as if rn)
 -VERY W.I.P. BATTLESYSTEM!
 (Only activates if multiplayer is disabled.)
+-Slightly fixed punctuation and number offsets
 
 
 
