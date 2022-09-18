@@ -27,5 +27,21 @@ player 2 controls)
 (example installed to mods folder already)
 -You can make custom songs, and also make and change weeks!
 
+--EDIT OF 9/18/22:
+
+FNF GOLD: MODDER'S EDITION
+-Adds inital state for testing 
+custom characters, a mod toggle switch, and more!
+
+GENERAL UPDATES
+-Animated Main menu BG
+-Playlist options (like Mic'd UP)
+-Character Select
+-Character Unlocking
+(Only Pico as if rn)
+-VERY W.I.P. BATTLESYSTEM!
+(Only activates if multiplayer is disabled.)
+
+
 
 That's all for now!
