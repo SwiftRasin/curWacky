@@ -44,6 +44,8 @@ GENERAL UPDATES:
 -Slightly fixed punctuation and number offsets
 New window icon
 FPS cap is set to 120
+New Main menu REMIX! 
+(Bopeebo Variant)
 
 
 That's all for now!
