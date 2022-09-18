@@ -29,11 +29,11 @@ player 2 controls)
 
 --EDIT OF 9/18/22:
 
-FNF GOLD: MODDER'S EDITION
+MOD SUPPORT UPDATE:
 -Adds inital state for testing 
 custom characters, a mod toggle switch, and more!
 
-GENERAL UPDATES
+GENERAL UPDATES:
 -Animated Main menu BG
 -Playlist options (like Mic'd UP)
 -Character Select
